@@ -23,6 +23,7 @@ console.log('40' + '15' - 10); // 4005
 console.log('40' + '15' + 10); // 101510
 console.log('40' / '15' / 10); // 0.267
 console.log('40' > 10); // true
+console.log('40' * '15' / 10); //60 
 
 let n = '1' + 1;
 n = n -1;
